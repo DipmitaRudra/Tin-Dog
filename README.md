@@ -1,5 +1,5 @@
 # Tin-Dog
-Tindog is a traveling/dating platform for both dogs and owners.
+Tindog is a traveling/dating platform for Dogs.
 
 ## Tools & Languages
 - HTML5
