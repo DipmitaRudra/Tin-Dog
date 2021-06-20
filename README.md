@@ -7,4 +7,4 @@ Tindog is a traveling/dating platform for both dogs and owners.
 - Bootstrap4
 
 ## Quick View
-[Click Here](https://dipmitarudra.github.io/Tin-Dog/)to check the website.
+[Click Here](https://dipmitarudra.github.io/Tin-Dog/) to check the website.
